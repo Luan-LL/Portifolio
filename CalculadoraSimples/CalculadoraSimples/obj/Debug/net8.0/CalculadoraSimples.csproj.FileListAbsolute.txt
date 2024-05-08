@@ -1,0 +1,14 @@
+C:\Users\luan_\OneDrive\Documentos\treinameto\CursoDDD\CalculadoraSimples\CalculadoraSimples\bin\Debug\net8.0\CalculadoraSimples.exe
+C:\Users\luan_\OneDrive\Documentos\treinameto\CursoDDD\CalculadoraSimples\CalculadoraSimples\bin\Debug\net8.0\CalculadoraSimples.deps.json
+C:\Users\luan_\OneDrive\Documentos\treinameto\CursoDDD\CalculadoraSimples\CalculadoraSimples\bin\Debug\net8.0\CalculadoraSimples.runtimeconfig.json
+C:\Users\luan_\OneDrive\Documentos\treinameto\CursoDDD\CalculadoraSimples\CalculadoraSimples\bin\Debug\net8.0\CalculadoraSimples.dll
+C:\Users\luan_\OneDrive\Documentos\treinameto\CursoDDD\CalculadoraSimples\CalculadoraSimples\bin\Debug\net8.0\CalculadoraSimples.pdb
+C:\Users\luan_\OneDrive\Documentos\treinameto\CursoDDD\CalculadoraSimples\CalculadoraSimples\obj\Debug\net8.0\CalculadoraSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luan_\OneDrive\Documentos\treinameto\CursoDDD\CalculadoraSimples\CalculadoraSimples\obj\Debug\net8.0\CalculadoraSimples.AssemblyInfoInputs.cache
+C:\Users\luan_\OneDrive\Documentos\treinameto\CursoDDD\CalculadoraSimples\CalculadoraSimples\obj\Debug\net8.0\CalculadoraSimples.AssemblyInfo.cs
+C:\Users\luan_\OneDrive\Documentos\treinameto\CursoDDD\CalculadoraSimples\CalculadoraSimples\obj\Debug\net8.0\CalculadoraSimples.csproj.CoreCompileInputs.cache
+C:\Users\luan_\OneDrive\Documentos\treinameto\CursoDDD\CalculadoraSimples\CalculadoraSimples\obj\Debug\net8.0\CalculadoraSimples.dll
+C:\Users\luan_\OneDrive\Documentos\treinameto\CursoDDD\CalculadoraSimples\CalculadoraSimples\obj\Debug\net8.0\refint\CalculadoraSimples.dll
+C:\Users\luan_\OneDrive\Documentos\treinameto\CursoDDD\CalculadoraSimples\CalculadoraSimples\obj\Debug\net8.0\CalculadoraSimples.pdb
+C:\Users\luan_\OneDrive\Documentos\treinameto\CursoDDD\CalculadoraSimples\CalculadoraSimples\obj\Debug\net8.0\CalculadoraSimples.genruntimeconfig.cache
+C:\Users\luan_\OneDrive\Documentos\treinameto\CursoDDD\CalculadoraSimples\CalculadoraSimples\obj\Debug\net8.0\ref\CalculadoraSimples.dll

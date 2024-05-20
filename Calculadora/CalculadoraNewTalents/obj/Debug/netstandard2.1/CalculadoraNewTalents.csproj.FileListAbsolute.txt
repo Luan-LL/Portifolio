@@ -1,0 +1,9 @@
+C:\Users\luan_\OneDrive\Documentos\treinameto\Calculadora\CalculadoraNewTalents\bin\Debug\netstandard2.1\CalculadoraNewTalents.deps.json
+C:\Users\luan_\OneDrive\Documentos\treinameto\Calculadora\CalculadoraNewTalents\bin\Debug\netstandard2.1\CalculadoraNewTalents.dll
+C:\Users\luan_\OneDrive\Documentos\treinameto\Calculadora\CalculadoraNewTalents\bin\Debug\netstandard2.1\CalculadoraNewTalents.pdb
+C:\Users\luan_\OneDrive\Documentos\treinameto\Calculadora\CalculadoraNewTalents\obj\Debug\netstandard2.1\CalculadoraNewTalents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luan_\OneDrive\Documentos\treinameto\Calculadora\CalculadoraNewTalents\obj\Debug\netstandard2.1\CalculadoraNewTalents.AssemblyInfoInputs.cache
+C:\Users\luan_\OneDrive\Documentos\treinameto\Calculadora\CalculadoraNewTalents\obj\Debug\netstandard2.1\CalculadoraNewTalents.AssemblyInfo.cs
+C:\Users\luan_\OneDrive\Documentos\treinameto\Calculadora\CalculadoraNewTalents\obj\Debug\netstandard2.1\CalculadoraNewTalents.csproj.CoreCompileInputs.cache
+C:\Users\luan_\OneDrive\Documentos\treinameto\Calculadora\CalculadoraNewTalents\obj\Debug\netstandard2.1\CalculadoraNewTalents.dll
+C:\Users\luan_\OneDrive\Documentos\treinameto\Calculadora\CalculadoraNewTalents\obj\Debug\netstandard2.1\CalculadoraNewTalents.pdb

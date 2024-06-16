@@ -13,7 +13,7 @@ public class Main {
     public static void main(String[] args) {
         Usuario usuario = new Usuario("Filisbino Silveira", "11999999999", "filisbino.silveira@example.com", "senha123", 
         "12345678", UF.SP, "São Paulo", "Centro", "Rua Exemplo", "123");
-        Pet pet = new Pet("Rex", "Labrador", "Cachorro");
+        Pet pet = new Pet("Rex", Porte.Grande,"Labrador", "Cachorro");
 
         Profissional profissional = new Profissional("Matheus Souza Filho", "17997999999", "mathues.filho@example.com", "senha321", 
         "1252587", UF.SP, "São Paulo", "Centro", "Rua Exemplo2", "323", "Curriculo.PDF","Veterinario");
@@ -39,6 +39,7 @@ public class Main {
         System.out.println("\nDetalhes do Pet:");
         System.out.println("Nome: " + pet.getNome());
         System.out.println("Raça: " + pet.getRaca());
+        System.out.println("Porte: "+pet.getPorte());
         System.out.println("Tipo de Animal: " + pet.getTipoAnimal());
 
         System.out.println("\nDetalhes do Profissional:");

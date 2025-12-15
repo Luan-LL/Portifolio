@@ -9,19 +9,15 @@
 
 ---
 
-## 📋 Sobre este Repositório
+## 📚 Sobre este Repositório
 
-Este repositório contém meu **portfólio de projetos** em desenvolvimento. Aqui você encontrará projetos práticos que demonstram minhas habilidades em **Desenvolvimento Full-Stack** e **Cibersegurança**.
+Este repositório contém meu **portfólio de projetos** em desenvolvimento. Aqui você encontrará projetos práticos que demonstram minhas habilidades em **Desenvolvimento Back-End**, em transição para **Full-Stack**.
 
 ---
 
 ## 🎯 Objetivo
 
-Documentar e compartilhar minha evolução como desenvolvedor através de projetos reais que aplicam:
-- ✅ Boas práticas de programação
-- ✅ Padrões de design e arquitetura
-- ✅ Segurança de aplicações
-- ✅ Código limpo e documentado
+Documentar e compartilhar minha evolução como desenvolvedor, iniciando pelo **Back-End** e avançando em direção ao **Full-Stack**, sempre aplicando boas práticas de código e fundamentos de **segurança da informação**.
 
 ---
 
